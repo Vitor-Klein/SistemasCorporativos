@@ -11,10 +11,6 @@ Resumo do contexto, requisitos e por que esta abordagem foi escolhida.
 - Execução local: logs/prints relevantes
 - Prints de tela (UI) ou *curl* de endpoints (API)
 - Link do ambiente de preview (se houver)
-## Evidências
-- Execução local: logs/prints relevantes
-- Prints de tela (UI) ou *curl* de endpoints (API)
-- Link do ambiente de preview (se houver)
 ## Checklist
 - [ ] CI passou: `lint` | `build` | `test`
 - [ ] Testes adicionados/atualizados (quando aplicável)
